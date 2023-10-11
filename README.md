@@ -1,2 +1,2 @@
 # OBmenu
-Simple but modern menu to be used with openbox
+Simple but modern menu to be used on lxqt.
