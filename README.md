@@ -5,6 +5,9 @@ Run menu at startup `python stupidmenu.py`
 Use `toggle.sh` to toggle menu.
 
 Dependencies:
+
 -Tkinter
+
 -CairoSVG
+
 -Pillow
