@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Name=Stupidmenu
+Exec=~/.stupidmenu/toggle.sh
+Icon=start-here-symbolic
+Terminal=false
+Type=Application
