@@ -1,2 +1,10 @@
-# OBmenu
-Simple but modern menu to be used on lxqt.
+# stupidmenu
+Menu for lxqt following the KISS principle (Keep It Simple and Stupid).
+
+Run menu at startup `python stupidmenu.py`
+Use `toggle.sh` to toggle menu.
+
+Dependencies:
+-Tkinter
+-CairoSVG
+-Pillow
